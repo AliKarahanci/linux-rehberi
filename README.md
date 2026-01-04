@@ -7,3 +7,9 @@ Linux, Linux kernelini kullanan işletim sistemi ailesinin adıdır. Bu işletim
 ## SSS
 **Hangi Linux dağıtımını kullanmalıyım?**
 <br>Çoğu vakit hangi Linux dağıtımını kullandığınızın pek bir önemi olmaz. Ancak, hangi Linux dağıtımları işinize hangi konularda yarar, bunu öğrenmek için [detaylı açıklamayı okuyabilirsiniz](https://github.com/AliKarahanci/linux-rehberi/blob/main/src/hangi_dagitim.md)
+
+**Linux'ta Oyun Oynanır Mı? Nasıl Oynarım?**
+<br>Sanılanın aksine Linux üzerinden oyun oynamak mümkündür. Hazırlamış olduğumuz [rehberi okuyarak](https://github.com/AliKarahanci/linux-rehberi/blob/main/src/oyun.md) konu hakkında bilgi alabilirsiniz.
+
+**XX yazılımına bağımlıyım, bu Linux'ta yok. Ne yapmalıyım?**
+<br>Günümüzde pek çok yazılım Linux'ta bulunuyor ancak bazı spesifik uygulamalar için Linux versiyonunu bulamadığımız oluyor. Konuyla ilgili detaylı [yazımızı okuyabilirsiniz]()
