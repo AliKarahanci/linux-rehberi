@@ -8,17 +8,20 @@ Uyarı!
 Bu rehberde sadece büyük bir topluluk veya şirketler tarafından desteklenen GNU/Linux dağıtımlarını ele alacağız. Küçük ekiplerin yönettiği ve sürdürülebiliriği pek yüksek olmayan GNU/Linux dağıtımlarını değerlendirmeyeceğiz. Bu, o dağıtımlar kötü olduğu için değil; profesyönel çalışmak isteyen insanların işlerini sürdürülebilir hale getirmesi amacıyla yapılmıştır.
 
 # SSS
-***Ben son kullanıcıyım, gündelik hayatımda Linux kullanmak istiyorum. Ne tercih etmeliyim?***
-<br>Fedora'yı öneririm. Ancak Manjaro ve Ubuntu da güzel bir tercihtir.
+***+ Ben son kullanıcıyım, gündelik hayatımda Linux kullanmak istiyorum. Ne tercih etmeliyim?***
+<br>- Fedora'yı öneririm. Ancak Manjaro ve Ubuntu da güzel bir tercihtir.
 
-***Ben AI ile uğraşıyorum, hangisini tercih etmeliyim?***
+***+Ben AI ile uğraşıyorum, hangisini tercih etmeliyim?***
 <br>Çoğu AI aracı için Ubuntu uygun olacaktır.
 
-***Sunucum için hangi Linux dağıtımını tercih etmeliyim?***
-<br>Büyük bir sunucusu ise RHEL, genel kullanım için Debian veya Ubuntu Server
+***+ Sunucum için hangi Linux dağıtımını tercih etmeliyim?***
+<br>- Büyük bir sunucusu ise RHEL, genel kullanım için Debian veya Ubuntu Server
 
-***Siber güvenlik ile uğraşıyorum, ne önerirsin?***
-<br>Kali Linux veya Debian + gerekli toollar
+***+ Siber güvenlik ile uğraşıyorum, ne önerirsin?***
+<br>- Kali Linux veya Debian + gerekli toollar
+
+***+ Yazılımcı olarak hangisini kullanmam gerek?***
+<br>- Fedora en iyi tercihiniz olacaktır.
 
 # Dağıtımlara Detaylıca Bakalım
 
