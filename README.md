@@ -1,4 +1,4 @@
-# Linux Rehberi
+# [REHBER] Linux Rehberi
 Türkçe, detaylı Linux rehberi
 
 ## Linux Nedir?
