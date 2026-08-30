@@ -1,3 +1,5 @@
+🛠️ Bu rehber bakımdadır
+
 # [REHBER] Linux Rehberi
 Türkçe, detaylı Linux rehberi
 
